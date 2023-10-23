@@ -34,11 +34,12 @@
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width:20%;
 }
 
-.escola-titulo{
+.estudante-título{
     padding: 24;
+    text-align: center;
 }
 
 .estudante-ícone{
@@ -46,5 +47,5 @@
 }
 
 .estudante-imagem{
-    width: 15%;
+    width: 10%;
 }
